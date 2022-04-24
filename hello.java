@@ -10,6 +10,7 @@
 88
 99
 0
+
 hello java git!!!
 hello java git!!!
 hello java git!!!
@@ -23,6 +24,10 @@ public static void main(String [] args){
 sout(123456)
 }
 sout(0987654321)
+public static void main(String [] args){
+  int random2 = (int) Math.floor(Math.random()*100+1)
+	System.out/println(random2)  
+}	
 ArrayList<String> list = new ArrrayList<>();
 System.out.plintln(wgssb)
 for(int i=0;i<100;i++){
